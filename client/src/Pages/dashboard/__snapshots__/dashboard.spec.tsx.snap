@@ -1,0 +1,233 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard Render the Dashboard 1`] = `
+<WithStyles(ForwardRef(Paper))
+  className="makeStyles-paper-1"
+  elevation={0}
+>
+  <WithStyles(ForwardRef(Typography))
+    variant="h5"
+  >
+    Welcome back, 
+  </WithStyles(ForwardRef(Typography))>
+  <WithStyles(ForwardRef(Divider))
+    className="makeStyles-divider-2"
+  />
+  <WithStyles(ForwardRef(ExpansionPanel))
+    className="makeStyles-checkingExpansion-4"
+    elevation={3}
+  >
+    <WithStyles(ForwardRef(ExpansionPanelSummary))
+      expandIcon={<UNDEFINED />}
+      id="panel1"
+    >
+      <WithStyles(ForwardRef(Typography))
+        className="makeStyles-expansionHeader-5"
+        variant="h6"
+      >
+        Checking Account
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        className="makeStyles-balancePadding-7"
+        variant="subtitle1"
+      >
+        Balance: $ 
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        className="makeStyles-balance-6"
+        variant="subtitle1"
+      >
+        0
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Tooltip))
+        title="View Checking Account"
+      >
+        <WithStyles(ForwardRef(IconButton))
+          aria-controls="expansion-action"
+          aria-haspopup="true"
+          aria-label="View Checking Account"
+          className="makeStyles-EditIcon-8"
+          color="primary"
+          component={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            }
+          }
+        >
+          <EditIcon />
+        </WithStyles(ForwardRef(IconButton))>
+      </WithStyles(ForwardRef(Tooltip))>
+    </WithStyles(ForwardRef(ExpansionPanelSummary))>
+    <WithStyles(ForwardRef(ExpansionPanelDetails))
+      className="makeStyles-details-9"
+    >
+      <WithStyles(ForwardRef(Typography))
+        variant="overline"
+      >
+        Suffix: 80
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        variant="overline"
+      >
+        ACH Number: 0011547957
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        variant="overline"
+      >
+        Available: $
+        0
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        variant="overline"
+      >
+        MICR: 44587964234
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        variant="overline"
+      >
+        YTD Interest: $5.25
+      </WithStyles(ForwardRef(Typography))>
+    </WithStyles(ForwardRef(ExpansionPanelDetails))>
+  </WithStyles(ForwardRef(ExpansionPanel))>
+  <WithStyles(ForwardRef(ExpansionPanel))
+    className="makeStyles-expansion-3"
+    elevation={3}
+  >
+    <WithStyles(ForwardRef(ExpansionPanelSummary))
+      expandIcon={<UNDEFINED />}
+      id="panel2"
+    >
+      <WithStyles(ForwardRef(Typography))
+        className="makeStyles-expansionHeader-5"
+        variant="h6"
+      >
+        Savings Account
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        className="makeStyles-balancePadding-7"
+        variant="subtitle1"
+      >
+        Balance: $ 
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        className="makeStyles-balance-6"
+        variant="subtitle1"
+      >
+        0
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Tooltip))
+        title="View Savings Account"
+      >
+        <WithStyles(ForwardRef(IconButton))
+          aria-controls="expansion-action"
+          aria-haspopup="true"
+          aria-label="View Savings Account"
+          className="makeStyles-EditIcon-8"
+          color="primary"
+          component={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            }
+          }
+        >
+          <EditIcon />
+        </WithStyles(ForwardRef(IconButton))>
+      </WithStyles(ForwardRef(Tooltip))>
+    </WithStyles(ForwardRef(ExpansionPanelSummary))>
+    <WithStyles(ForwardRef(ExpansionPanelDetails))
+      className="makeStyles-details-9"
+    >
+      <WithStyles(ForwardRef(Typography))
+        variant="overline"
+      >
+        Suffix: 00
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        variant="overline"
+      >
+        Available: $
+        0
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        variant="overline"
+      >
+        MICR: 79587967954
+      </WithStyles(ForwardRef(Typography))>
+    </WithStyles(ForwardRef(ExpansionPanelDetails))>
+  </WithStyles(ForwardRef(ExpansionPanel))>
+  <WithStyles(ForwardRef(ExpansionPanel))
+    className="makeStyles-expansion-3"
+    elevation={3}
+  >
+    <WithStyles(ForwardRef(ExpansionPanelSummary))
+      expandIcon={<UNDEFINED />}
+      id="panel3"
+    >
+      <WithStyles(ForwardRef(Typography))
+        className="makeStyles-expansionHeader-5"
+        variant="h6"
+      >
+        Money Market Account
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        className="makeStyles-balancePadding-7"
+        variant="subtitle1"
+      >
+        Balance: $
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        className="makeStyles-balance-6"
+        variant="subtitle1"
+      >
+        0
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Tooltip))
+        title="View Money Market Account"
+      >
+        <WithStyles(ForwardRef(IconButton))
+          aria-controls="expansion-action"
+          aria-haspopup="true"
+          aria-label="View Money Market Account"
+          className="makeStyles-EditIcon-8"
+          color="primary"
+          component={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            }
+          }
+        >
+          <EditIcon />
+        </WithStyles(ForwardRef(IconButton))>
+      </WithStyles(ForwardRef(Tooltip))>
+    </WithStyles(ForwardRef(ExpansionPanelSummary))>
+    <WithStyles(ForwardRef(ExpansionPanelDetails))
+      className="makeStyles-details-9"
+    >
+      <WithStyles(ForwardRef(Typography))
+        variant="overline"
+      >
+        Suffix: 90
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        variant="overline"
+      >
+        Available: $
+        0
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        variant="overline"
+      >
+        MICR: 85687967154
+      </WithStyles(ForwardRef(Typography))>
+      <WithStyles(ForwardRef(Typography))
+        variant="overline"
+      >
+        YTD Interest: $112.98
+      </WithStyles(ForwardRef(Typography))>
+    </WithStyles(ForwardRef(ExpansionPanelDetails))>
+  </WithStyles(ForwardRef(ExpansionPanel))>
+</WithStyles(ForwardRef(Paper))>
+`;
